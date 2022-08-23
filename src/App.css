@@ -1,0 +1,111 @@
+.App {
+  text-align: center;
+}
+
+.App-body {
+    background-color: #d0f0c0;
+    text-align: center;
+
+}
+
+
+
+
+.App-logo {
+  height: 5vmin;
+  pointer-events: none;
+  margin-top:1vmin;
+  margin-inline: 10vmin;
+}
+
+
+.App-header {
+    background-color: #679267;
+    min-height: 10vh;
+    color: white;
+}
+
+.App-header-items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.everything {
+    background: #d0f0c0;
+}
+
+.tiles {
+    width: 100%;
+    height: 100%;
+    margin-top: 5vmin;
+}
+
+.Row1 {
+    height: 250px;
+}
+
+.row1pic {
+    text-align: center;
+}
+
+.row1text {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+}
+
+h1.dogtitle {
+    width: 170px;
+    color: white;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: aliceblue;
+    min-height: 10px;
+    max-height: 50px;
+    background-color: #008000;
+    font-family: Sans-serif;
+    font-size: large;
+    padding: 10px;
+    -webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -o-transition: margin 0.5s ease-out;
+    margin-left: 1vmin;
+}
+
+
+    h1.dogtitle:hover {
+        cursor: pointer;
+        margin-top: 30px;
+      
+    }
+
+img.dogimage {
+    margin-left: 1vmin;
+}
+
+.tiles {
+    width: 100%;
+    height: 100%;
+    margin-top: 5vmin;
+
+}
+
+
+
+.link {
+     text-decoration: none;
+}
+
+
+.Footer {
+    background-color: #8fbc8f;
+    height: 100px;
+}
+
+p.FooterText {
+    margin-left: 1vmin;
+}
+
